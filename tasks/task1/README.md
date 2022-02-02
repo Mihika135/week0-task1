@@ -2,20 +2,11 @@
 
 ## Task1
 
-### TODO
+## My Result
 
-
-- [ ] create a resposive login page. 
-- [ ] The login page will have 
-  - [ ] A text input for Email
-  - [ ] A password input for Password
-  - [ ] A login button
-  - [ ] A link that when clicked opens ```https://www.kjscecodecell.com/``` in another tab. 
-  
-- [ ] The Email and Password should have a thick border (anything from 4px onward) 
-- [ ] When the login button is CLICKED, the email and password entered should get stored in an array called **Details** and shold also send an alert message saying "**You have logged in!**".
-- [ ] the link should should change color and get underlined when the mouse pointer hovers over it.
-- [ ] You are free to use any colours you want.
+- [ ] My Page.
+- [ ] Link color changed when hovered over.
+- [ ] Alert message
 
 
 ## Example Result
