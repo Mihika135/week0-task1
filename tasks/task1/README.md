@@ -5,17 +5,8 @@
 ## My Result
 
 - [ ] My Page.
+<img src="../assets/task1_ss1.jpg.png" height="400">
 - [ ] Link color changed when hovered over.
+<img src="../assets/task1_ss2.jpg.png" height="400">
 - [ ] Alert message
-
-
-## Example Result
-
-- [ ] What the page should look like.
-<img src="../assets/task1-ss1.jpg" height="400" />
-
-- [ ] The link should change color and gets underlined when hovered over.
-<img src="../assets/task1-ss2.jpg" height="400" />
-
-- [ ] The main screenshot that shows the array and alert message.
-<img src="../assets/task1-ss3.jpg" height="400" />
+<img src="../assets/task1_ss3.jpg.png" height="400">
